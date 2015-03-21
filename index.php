@@ -51,26 +51,12 @@ else
     <div id="festList">
         <ul>
             <li><a href="ng_gh2015f/">2015 金馬奇幻影展 / Golden Horse Fantastic Film Festival 2015</a></li>
-            <li><a href="ng_gh2014/">2014 金馬影展 / Golden Horse 2014 - 新介面</a></li>
-            <li><a href="gh2014/">2014 金馬影展 / Golden Horse 2014</a></li>
-            <li><a href="gh2013/">2013 金馬影展 / Golden Horse 2013</a></li>
-            <li><a href="gh2013f/">2013 金馬奇幻影展 / 2013 Golden Horse Fantastic Film Festival</a></li>
-            <li><a href="gh2012/">2012 金馬影展 / Golden Horse 2012</a></li>
-            <li><a href="tiff2011/">2011 台北電影節 / Taipei Film Festival 2011</a></li>
-            <li><a href="gh2011f/">2011 金馬奇幻影展 / Golden Horse 2011 (Fantastic)</a></li>
-            <li><a href="gh2010/">2010 金馬影展 / Golden Horse 2010</a></li>
-            <li><a href="tiff2010/">2010 台北電影節 / Taipei Film Festival 2010</a></li>
-            <li><a href="gh2010f/">2010 金馬奇幻影展 / Golden Horse 2010 (Fantastic)</a></li>
-            <li><a href="gh2009/">2009 金馬影展 / Golden Horse 2009</a></li>
+            <li><a href="ng_gh2014/">2014 金馬影展 / Golden Horse 2014</a></li>
         </ul>
     </div>
     <div class="muted">
-        <span>Short link of this page: <a href="http://bit.ly/moovee">http://bit.ly/moovee</a></span><br />
         <span>Hint: iPad / iPhone / iPod user, try to add this page to your Home Screen :)</span><br />
-        <span>20121020: Here's <a href="https://github.com/cornguo/moovee">the source code</a> of this tool. Have fun :D</span>
-    </div>
-    <div class="fb_like">
-        <object data="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fcornguo.atcity.org%2Ftest%2Fmoovee%2F&amp;layout=button_count&amp;show_faces=true&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" style="border:none; overflow:hidden; height:21px;" type="text/html"></object>
+        <span>20150321: Here's <a href="https://github.com/johncylee/Moovee">the source code</a> of this tool. Have fun :D</span>
     </div>
 </div>
 </body>
