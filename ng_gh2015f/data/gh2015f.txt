@@ -1,0 +1,110 @@
+PLACE	DATE	TIME	DURATION	CATEGORY	CTITLE	ETITLE	GRADE	REMARK	PAGE
+新光1廳	2015/04/10	11:00	153	非一般愛情故事	寶萊塢之大帥出任務	Bang Bang!	保護級		NA
+新光1廳	2015/04/10	14:10	92	經典重現	搖滾芭比	Hedwig and the Angry Inch	輔導級		NA
+新光1廳	2015/04/10	16:20	104	當代奇幻	明日拍立得	Time Lapse	保護級		NA
+新光1廳	2015/04/10	19:00	107	開幕片	醉．生夢死	Thanatos, Drunk	輔導級	★	NA
+新光1廳	2015/04/10	21:50	107	經典重現	里歐洛	Leolo	限制級		NA
+新光2廳	2015/04/10	10:40	104	東瀛狂想	狐仙麗莎煞煞煞	Liza, the Fox-Fairy	限制級		NA
+新光2廳	2015/04/10	13:00	85	非一般愛情故事	搶救愛情的時空旅人	The Infinite Man	輔導級		NA
+新光2廳	2015/04/10	15:00	76	特別放映	閱讀時光： 冰箱、大象、降生十二星座	Are We Dust in the Wind: The Refrigerator, The Elephant Apartment, Spring Beauty	保護級	▲	NA
+新光2廳	2015/04/10	16:50	118	東瀛狂想	人生最後那幾件事	Lingering Spirits	保護級	▲	NA
+新光2廳	2015/04/10	19:20	100	腥銳午夜	天堂路上我和你	Heavenly Shift	限制級		NA
+新光2廳	2015/04/10	21:30	148	當代奇幻	性本惡	Inherent Vice	輔導級		NA
+新光1廳	2015/04/11	10:40	196	東瀛狂想	0.5mm	0.5mm	保護級		NA
+新光1廳	2015/04/11	14:30	91	焦點導演：魏斯安德森	脫線沖天炮	Bottle Rocket	保護級		NA
+新光1廳	2015/04/11	16:40	98	當代奇幻	在我消失之前	Before I Disappear	輔導級		NA
+新光1廳	2015/04/11	19:00	100	跟著唱翻天	洛基恐怖秀	The Rocky Horror Picture Show	輔導級		NA
+新光1廳	2015/04/11	22:30	90	當代奇幻	老爸一直都在	Afterlife	限制級		NA
+新光2廳	2015/04/11	11:00	102	神祕影片	蛋糕的滋味	Cake	輔導級		NA
+新光2廳	2015/04/11	13:20	81	大銀幕，首發！	南方四賤客	South Park: Bigger, Longer & Uncut	限制級		NA
+新光2廳	2015/04/11	15:10	76	特別放映	閱讀時光： 冰箱、大象、降生十二星座	Are We Dust in the Wind: The Refrigerator, The Elephant Apartment, Spring Beauty	保護級	★▲	NA
+新光2廳	2015/04/11	17:30	114	當代奇幻	第四公民	Citizenfour	普級		NA
+新光2廳	2015/04/11	20:00	87	焦點導演：魏斯安德森	超級狐狸先生	Fantastic Mr. Fox	保護級		NA
+新光2廳	2015/04/11	22:00	100	跟著唱翻天	洛基恐怖秀	The Rocky Horror Picture Show	輔導級		NA
+新光1廳	2015/04/12	00:30	270	東瀛狂想	所羅門的偽證  前篇：事件  後篇：裁判	Solomon's Perjury I + II: Suspicion & Judgement	輔導級		NA
+新光1廳	2015/04/12	10:30	153	非一般愛情故事	寶萊塢之大帥出任務	Bang Bang!	保護級		NA
+新光1廳	2015/04/12	13:40	107	經典重現	里歐洛	Leolo	限制級		NA
+新光1廳	2015/04/12	16:00	93	焦點導演：魏斯安德森	都是愛情惹的禍	Rushmore	保護級		NA
+新光1廳	2015/04/12	18:10	100	當代奇幻	冰血奇緣	Dead Snow; Red vs. Dead	輔導級		NA
+新光1廳	2015/04/12	20:20	104	焦點導演：魏斯安德森	大吉嶺有限公司 　（同場加映：騎士飯店）	The Darjeeling Limited	保護級		NA
+新光1廳	2015/04/12	22:20	91	焦點導演：魏斯安德森	脫線沖天炮	Bottle Rocket	保護級		NA
+新光2廳	2015/04/12	13:00	111	當代奇幻	郵差的白色夜晚	The Postman's White Nights	輔導級		NA
+新光2廳	2015/04/12	15:30	90	當代奇幻	弒不過三	Kill Me Three Times	輔導級		NA
+新光2廳	2015/04/12	17:30	104	東瀛狂想	狐仙麗莎煞煞煞	Liza, the Fox-Fairy	限制級		NA
+新光2廳	2015/04/12	19:50	101	大銀幕，首發！	野獸冒險樂園	Where the Wild Things Are	保護級		NA
+新光2廳	2015/04/12	22:00	104	當代奇幻	明日拍立得	Time Lapse	保護級		NA
+新光1廳	2015/04/13	11:00	104	焦點導演：魏斯安德森	大吉嶺有限公司 　（同場加映：騎士飯店）	The Darjeeling Limited	保護級		NA
+新光1廳	2015/04/13	13:10	81	大銀幕，首發！	南方四賤客	South Park: Bigger, Longer & Uncut	限制級		NA
+新光1廳	2015/04/13	16:00	125	經典重現	遊戲時間	Playtime	保護級		NA
+新光1廳	2015/04/13	18:40	180	當代奇幻	寶萊塢之舞林大盜	Happy New Year	保護級		NA
+新光1廳	2015/04/13	22:10	90	當代奇幻	床底下的女人	The Chambermaid Lynn	限制級		NA
+新光2廳	2015/04/13	11:10	196	東瀛狂想	0.5mm	0.5mm	保護級		NA
+新光2廳	2015/04/13	15:00	109	腥銳午夜	嚎宅禁地	Housebound	限制級		NA
+新光2廳	2015/04/13	17:30	87	焦點導演：魏斯安德森	超級狐狸先生	Fantastic Mr. Fox	保護級		NA
+新光2廳	2015/04/13	19:30	103	東瀛狂想	極道好聲音	La La La at Rock Bottom	輔導級		NA
+新光2廳	2015/04/13	21:50	101	非一般愛情故事	憂傷男孩	Jamie Marks Is Dead	輔導級		NA
+新光1廳	2015/04/14	11:30	180	當代奇幻	寶萊塢之舞林大盜	Happy New Year	保護級		NA
+新光1廳	2015/04/14	15:00	110	焦點導演：魏斯安德森	天才一族	The Royal Tenenbaums	輔導級		NA
+新光1廳	2015/04/14	17:20	100	腥銳午夜	晚安媽咪	Goodnight Mommy	限制級		NA
+新光1廳	2015/04/14	19:30	118	東瀛狂想	人生最後那幾件事	Lingering Spirits	保護級	▲	NA
+新光1廳	2015/04/14	22:00	92	經典重現	搖滾芭比	Hedwig and the Angry Inch	輔導級		NA
+新光2廳	2015/04/14	11:50	91	焦點導演：魏斯安德森	脫線沖天炮	Bottle Rocket	保護級		NA
+新光2廳	2015/04/14	14:00	101	大銀幕，首發！	野獸冒險樂園	Where the Wild Things Are	保護級		NA
+新光2廳	2015/04/14	16:20	90	當代奇幻	弒不過三	Kill Me Three Times	輔導級		NA
+新光2廳	2015/04/14	18:30	100	腥銳午夜	天堂路上我和你	Heavenly Shift	限制級		NA
+新光2廳	2015/04/14	20:40	196	東瀛狂想	0.5mm	0.5mm	保護級		NA
+新光1廳	2015/04/15	12:00	126	東瀛狂想	海月姬	Princess Jellyfish	保護級		NA
+新光1廳	2015/04/15	14:40	119	焦點導演：魏斯安德森	海海人生	The Life Aquatic with Steve Zissou	保護級		NA
+新光1廳	2015/04/15	17:10	98	當代奇幻	在我消失之前	Before I Disappear	輔導級		NA
+新光1廳	2015/04/15	19:20	125	經典重現	遊戲時間	Playtime	保護級		NA
+新光1廳	2015/04/15	22:00	104	非一般愛情故事	她愛他	Elle l'adore	輔導級		NA
+新光2廳	2015/04/15	12:50	101	大銀幕，首發！	野獸冒險樂園	Where the Wild Things Are	保護級		NA
+新光2廳	2015/04/15	15:10	103	東瀛狂想	極道好聲音	La La La at Rock Bottom	輔導級		NA
+新光2廳	2015/04/15	17:30	85	非一般愛情故事	搶救愛情的時空旅人	The Infinite Man	輔導級		NA
+新光2廳	2015/04/15	19:30	 108	經典重現	王牌冤家	Eternal Sunshine of the Spotless Mind	保護級		NA
+新光2廳	2015/04/15	21:50	95	腥銳午夜	凌刑密密縫	Shrew's Nest	限制級		NA
+新光1廳	2015/04/16	12:20	93	焦點導演：魏斯安德森	都是愛情惹的禍	Rushmore	保護級		NA
+新光1廳	2015/04/16	14:30	90	當代奇幻	床底下的女人	The Chambermaid Lynn	限制級		NA
+新光1廳	2015/04/16	16:30	107	經典重現	里歐洛	Leolo	限制級		NA
+新光1廳	2015/04/16	19:00	120	Surprise Film	Surprise Film	Surprise Film	保護級		NA
+新光1廳	2015/04/16	21:40	104	當代奇幻	明日拍立得	Time Lapse	保護級		NA
+新光2廳	2015/04/16	12:00	 108	經典重現	王牌冤家	Eternal Sunshine of the Spotless Mind	保護級		NA
+新光2廳	2015/04/16	14:20	101	非一般愛情故事	憂傷男孩	Jamie Marks Is Dead	輔導級		NA
+新光2廳	2015/04/16	16:40	109	大銀幕，首發！	人類之子	Children of Men	輔導級		NA
+新光2廳	2015/04/16	19:00	120	Surprise Film	Surprise Film	Surprise Film	保護級		NA
+新光2廳	2015/04/16	21:50	90	當代奇幻	弒不過三	Kill Me Three Times	輔導級		NA
+新光1廳	2015/04/17	10:40	101	非一般愛情故事	憂傷男孩	Jamie Marks Is Dead	輔導級		NA
+新光1廳	2015/04/17	13:00	104	非一般愛情故事	她愛他	Elle l'adore	輔導級		NA
+新光1廳	2015/04/17	15:20	104	東瀛狂想	狐仙麗莎煞煞煞	Liza, the Fox-Fairy	限制級		NA
+新光1廳	2015/04/17	17:50	104	焦點導演：魏斯安德森	大吉嶺有限公司 　（同場加映：騎士飯店）	The Darjeeling Limited	保護級		NA
+新光1廳	2015/04/17	20:00	127	跟著唱翻天	紅磨坊	Moulin Rouge!	保護級		NA
+新光1廳	2015/04/17	22:40	92	經典重現	搖滾芭比	Hedwig and the Angry Inch	輔導級		NA
+新光2廳	2015/04/17	10:30	100	腥銳午夜	天堂路上我和你	Heavenly Shift	限制級		NA
+新光2廳	2015/04/17	12:40	90	當代奇幻	老爸一直都在	Afterlife	限制級		NA
+新光2廳	2015/04/17	14:40	95	腥銳午夜	凌刑密密縫	Shrew's Nest	限制級		NA
+新光2廳	2015/04/17	16:50	109	腥銳午夜	嚎宅禁地	Housebound	限制級		NA
+新光2廳	2015/04/17	19:10	99	非一般愛情故事	女孩半夜不回家	A Girl Walks Home Alone at Night	輔導級		NA
+新光2廳	2015/04/17	21:20	153	非一般愛情故事	寶萊塢之大帥出任務	Bang Bang!	保護級		NA
+新光1廳	2015/04/18	10:30	126	東瀛狂想	海月姬	Princess Jellyfish	保護級		NA
+新光1廳	2015/04/18	13:10	121	當代奇幻	忠犬追殺令	White God	輔導級		NA
+新光1廳	2015/04/18	15:40	119	焦點導演：魏斯安德森	海海人生	The Life Aquatic with Steve Zissou	保護級		NA
+新光1廳	2015/04/18	18:10	98	當代奇幻	在我消失之前	Before I Disappear	輔導級		NA
+新光1廳	2015/04/18	20:20	100	腥銳午夜	晚安媽咪	Goodnight Mommy	限制級		NA
+新光1廳	2015/04/18	22:30	95	腥銳午夜	凌刑密密縫	Shrew's Nest	限制級		NA
+新光2廳	2015/04/18	10:20	109	大銀幕，首發！	人類之子	Children of Men	輔導級		NA
+新光2廳	2015/04/18	12:40	110	焦點導演：魏斯安德森	天才一族	The Royal Tenenbaums	輔導級		NA
+新光2廳	2015/04/18	15:00	85	非一般愛情故事	搶救愛情的時空旅人	The Infinite Man	輔導級		NA
+新光2廳	2015/04/18	17:00	 108	經典重現	王牌冤家	Eternal Sunshine of the Spotless Mind	保護級		NA
+新光2廳	2015/04/18	19:20	148	當代奇幻	性本惡	Inherent Vice	輔導級		NA
+新光2廳	2015/04/18	22:20	81	大銀幕，首發！	南方四賤客	South Park: Bigger, Longer & Uncut	限制級		NA
+新光1廳	2015/04/19	11:30	100	腥銳午夜	晚安媽咪	Goodnight Mommy	限制級		NA
+新光1廳	2015/04/19	13:50	126	東瀛狂想	海月姬	Princess Jellyfish	保護級		NA
+新光1廳	2015/04/19	16:30	106	當代奇幻	男孩超級白	Güeros	保護級		NA
+新光1廳	2015/04/19	19:00	95	神祕影片	法蘭克	Frank	普級		NA
+新光1廳	2015/04/19	21:10	102	神祕影片	蛋糕的滋味	Cake	輔導級		NA
+新光2廳	2015/04/19	11:00	103	東瀛狂想	極道好聲音	La La La at Rock Bottom	輔導級		NA
+新光2廳	2015/04/19	13:20	87	焦點導演：魏斯安德森	超級狐狸先生	Fantastic Mr. Fox	保護級		NA
+新光2廳	2015/04/19	15:20	105	神祕影片	貝禮一家	The Belier Family	保護級		NA
+新光2廳	2015/04/19	17:30	90	當代奇幻	老爸一直都在	Afterlife	限制級		NA
+新光2廳	2015/04/19	19:30	109	腥銳午夜	嚎宅禁地	Housebound	限制級		NA
+新光2廳	2015/04/19	21:50	109	大銀幕，首發！	人類之子	Children of Men	輔導級		NA
