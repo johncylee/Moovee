@@ -50,13 +50,12 @@ else
     <h1>Which film festival?</h1>
     <div id="festList">
         <ul>
-            <li><a href="ng_gh2015f/">2015 金馬奇幻影展 / Golden Horse Fantastic Film Festival 2015</a></li>
-            <li><a href="ng_gh2014/">2014 金馬影展 / Golden Horse 2014</a></li>
+            <li><a href="ng_gh2015/">2015 台北金馬影展 Taipei Golden Horse Film Festival</a></li>
         </ul>
     </div>
     <div class="muted">
         <span>Hint: iPad / iPhone / iPod user, try to add this page to your Home Screen :)</span><br />
-        <span>20150321: Here's <a href="https://github.com/johncylee/Moovee">the source code</a> of this tool. Have fun :D</span>
+        <span>20151013: Here's <a href="https://github.com/johncylee/Moovee">the source code</a> of this tool. Have fun :D</span>
     </div>
 </div>
 </body>
