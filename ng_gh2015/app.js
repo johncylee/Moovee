@@ -47,7 +47,7 @@
             keys = {}
             angular.forEach($scope.items, function (v, k) {
                 var match = v.PLACE.match(pattern);
-                if (match.length > 1) {
+                if (!!match && match.length > 1) {
                     keys[match[1]] = 'place';
                 }
             });
