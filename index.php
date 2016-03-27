@@ -50,7 +50,7 @@ else
     <h1>Which film festival?</h1>
     <div id="festList">
         <ul>
-            <li><a href="ng_gh2015/">2015 台北金馬影展 Taipei Golden Horse Film Festival</a></li>
+            <li><a href="ng_gh2016f/">2016 金馬奇幻影展</a></li>
         </ul>
     </div>
     <div class="muted">

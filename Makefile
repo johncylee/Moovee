@@ -1,4 +1,4 @@
-subdirs=ng_gh2014 ng_gh2015f packjs
+subdirs=ng_gh2016f packjs
 
 .PHONY: all
 all: func.test.js func.js build_subs
